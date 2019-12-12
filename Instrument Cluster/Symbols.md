@@ -20,20 +20,4 @@ PS. 如题，在标准中专业的称呼是“标志”，由于习惯，本文�
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[pic_tpms]: https://raw.githubusercontent.com/liangwq0715/Automotive-Electronics/master/images/TPMS.jpg "TPMS"
+[pic_tpms]: .images/TPMS.jpg "TPMS"
