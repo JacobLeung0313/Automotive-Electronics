@@ -14,10 +14,9 @@
 
 情急之下，最快速的方法就是问问认识的老司机，或者求助万能的朋友圈了。那么下面就和大家聊聊这些符号，特别是在仪表里面的应用。
 
-> 备注：如题，在标准中专业的称呼是“标志”,由于习惯，本文中称之为“符号”。
-> <br>请参考GB4094中的术语：
-> <br>标志 symbol 
-> <br>用以识别操纵件、指示器及信号装置的图形。
+>备注：如下文GB4094中的术语，专业的名词是“标志”。但是基于习惯，本文中称之为“符号”。
+>>标志 symbol
+<br>用以识别操纵件、指示器及信号装置的图形。
 
 ## 常见的符号
 
@@ -33,14 +32,38 @@
 
 下面就列举一些我们时常会见到的符号：
 
-| 名称  | 符号 | 颜色 | 说明 |
-| ------------- | ------------- | ------------- | ------------- |
-| 远光灯  |   | 绿色  | 前照灯远光操纵件及信号装置标志  |
-| 近光灯  |   | 绿色  | 前照灯近光操纵件及信号装置标志  |
-| 位置灯  |   | 绿色  | 位置(侧)灯操纵件及信号装置标志 <br> *有时也称之为小灯*  |
-| 前雾灯  |   | 绿色  | 前雾灯操纵件及信号装置标志  |
-| 后雾灯  |   | 黄色  | 后雾灯操纵件及信号装置标志  |
-| 驻车灯  |   | 绿色  | 驻车灯操纵件及信号装置标志  |
-| 转向灯  |   | 绿色  | 转向信号灯操纵件及信号装置标志 <br> *注意：挂车图标需要* |
-| 危险警告信号灯  |   | 红色  | 危险警告信号灯操纵件标志 <br> *这个灯亮了还是赶紧停车吧* <br> *应该都见过停在路边的车左右灯都在闪烁的情况把* |
+| 名称 | 符号 | 颜色 | 说明 | 备注 |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| 远光灯 | ![pic_hb_7000]  | 绿色  | 前照灯远光操纵件及信号装置标志 |  |
+| 近光灯 |   | 绿色 | 前照灯近光操纵件及信号装置标志 |  |
+| 位置灯 |   | 绿色 | 位置(侧)灯操纵件及信号装置标志 | *有时也称之为小灯* |
+| 前雾灯 |   | 绿色 | 前雾灯操纵件及信号装置标志 |  |
+| 后雾灯 |   | 黄色 | 后雾灯操纵件及信号装置标志 |  |
+| 转向灯 |   | 绿色 | 转向信号灯操纵件及信号装置标志 | *挂车图标需要* |
+| 危险警告灯 |   | 红色 | 危险警告信号灯操纵件标志 | *这个灯亮了还是赶紧停车吧 <br> 应该都见过停在路边的车左右灯都在闪烁的情况把* |
+| 驻车灯 |   | 绿色 | 驻车灯操纵件及信号装置标志 |  |
 
+
+
+[pic_ret_4094]: ./attachments/GB4094_图19.png "Retarder"
+[pic_bf_4094]: ./attachments/GB4094_图20.png "Brake Failure"
+[pic_fuel_4094]: ./attachments/GB4094_图21.png "Fuel"
+[pic_abs_4094]: ./attachments/GB4094_图37.png "Anti-lock Brake System"
+[pic_pb_4094]: ./attachments/GB4094_图38.png "Parking Brake"
+[pic_eng_4094]: ./attachments/GB4094_图43.png "Engine"
+
+[pic_hb_7000]: ./attachments/ISO7000_0082_Highbeam.png "High Beam"
+[pic_lb_7000]: ./attachments/ISO7000_0083_Lowbeam.png "Low Beam"
+[pic_tl_7000]: ./attachments/ISO7000_0084_Turnsignals.png "Turning Lights"
+[pic_hw_7000]: ./attachments/ISO7000_0085_Hazardwarning.png "Hazard Warning"
+[pic_ect_7000]: ./attachments/ISO7000_0246_Enginecoolanttemperature "Engine Coolant Temperature"
+[pic_bcc_7000]: ./attachments/ISO7000_0247_Batterychargingcondition.png "Battery Charging Condition"
+[pic_sb_7000]: ./attachments/ISO7000_0249_Seatbelt.png "Seatbelt"
+[pic_pl_7000]: ./attachments/ISO7000_0456_Positionlights.png "Position Lights"
+[pic_dph_7000]: ./attachments/ISO7000_0457_Dieselpreheat.png "Diesel Preheat"
+[pic_ffl_7000]: ./attachments/ISO7000_0633_Frontfoglight.png "Front Fog Light"
+[pic_rfl_7000]: ./attachments/ISO7000_0634_Rearfoglight.png "Rear Fog Light"
+[pic_bs_7000]: ./attachments/ISO7000_1404_Brakesystem.png "Brake System"
+[pic_tf_7000]: ./attachments/ISO7000_1434B_Tyrefailure.png "Tyre Failure"
+[pic_cl_7000]: ./attachments/ISO7000_1560_Cablock.png "Cab Lock"
+[pic_acc_7000]: ./attachments/ISO7000_2580_Adaptivecruisecontrol.png "Adaptive Cruise Control"
