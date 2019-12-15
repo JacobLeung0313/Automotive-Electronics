@@ -18,17 +18,25 @@
 >>标志 symbol
 <br>用以识别操纵件、指示器及信号装置的图形。
 
-## 常见的符号
+## 符号的表现形式
 
 在仪表中，“符号”有很多种表现形式，比如说：
 
 * 表牌上印刷的符号
-*insert picture here*
+  <br> *参考下图中绿色圆圈中的3个符号*
+  ![](./attachments/pixabay_bmw-1399427_960_720.jpg)
+
 * LED透过表牌点亮的报警灯
-*insert picture here*
+  <br> *参考下图中红色圆圈中的符号*
+  ![](./attachments/pixabay_car-1464859_960_720.jpg)
+
 * LCD中显示的报警图标
-*insert picture here*
+  <br> *参考下图中红色圆圈中的2个符号*
+  ![](./attachments/pixabay_speedometer-2389746_960_720.jpg)
+
 >备注：随着全屏时代的到来，表牌不复存在，LED报警灯终将移到LCD中显示。
+
+## 常见的符号
 
 下面就列举一些仪表盘上会用到的符号：
 
@@ -57,7 +65,7 @@
 
 > 表格符号的形状来源于GB 4094-2016
 
-## 标准
+## 执行标准
 
 上表中提到的符号，国内外标准对于符号的颜色，形状以及如何使用等有详细的定义，国内常用的有GB 4094，国外常用的有ISO 2575和ISO 7000。而且这些标准经常会更新，一般我们使用最新的即可。
 
@@ -73,7 +81,8 @@
 1. GB 4094-2016 汽车操纵件、指示器及信号装置的标志  
 2. ISO 2575-2010 Road vehicles — Symbols for controls, indicators and tell-tales  
 3. ISO 7000-2004 Graphical symbols for use on equipment — Index and synopsis
-
+   [link](https://www.iso.org/obp/ui/#iso:pub:PUB400001:en)
+4. [pixabay](https://pixabay.com/)
 
 [pic_ah_4094]: ./attachments/GB4094_图3.A.png "Automatic Headlamp"
 [pic_ret_4094]: ./attachments/GB4094_图19.png "Retarder"
@@ -86,7 +95,6 @@
 [pic_ah_2575]: ./attachments/ISO2575_A.36.png "Automatic Headlamp"
 [pic_bf_2575]: ./attachments/ISO2575_B.01.png "Brake Failure"
 [pic_eng_2575]: ./attachments/ISO2575_F.01.png "Engine"
-
 
 [pic_hb_7000]: ./attachments/ISO7000_0082_Highbeam.png "High Beam"
 [pic_lb_7000]: ./attachments/ISO7000_0083_Lowbeam.png "Low Beam"
