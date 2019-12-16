@@ -36,40 +36,43 @@
 
 >备注：随着全屏时代的到来，表牌不复存在，LED报警灯终将移到LCD中显示。
 
+其中表牌上印刷的符号用于表明其指示的是什么信息，没有逻辑功能，所以下文仅侧重于描述LED点亮和LCD中显示的符号的用途。
+
 ## 常见的符号
 
-下面就列举一些仪表盘上会用到的符号：
+下表就列举一些仪表盘上常用的符号：
 
-| 名称 | 符号 | 颜色 | 备注 |
-| ---- | --- | ---- | ---- |
-| 远光灯 | ![pic_hb_7000] | 蓝色 | 车辆前照远光灯工作时点亮 |
-| 近光灯 | ![pic_lb_7000] | 绿色 | 车辆前照近光灯工作时点亮 |
-| 位置灯 | ![pic_pl_7000] | 绿色 | 车辆位置灯工作时点亮 <br> *有时也称之为小灯* |
-| 前雾灯 | ![pic_ffl_7000] | 绿色 | 车辆前雾灯工作时点亮 |
-| 后雾灯 | ![pic_rfl_7000] | 黄色 | 车辆后雾灯工作时点亮 |
-| 转向灯 | ![pic_tl_7000] | 绿色 | 车辆左或右转向灯工作时同步闪烁 |
-| 危险警告灯 | ![pic_hw_7000] | 红色 | 车辆仪表台上的危险警告开关按下，左右转向灯会同时闪烁 <br> *应该都见过停在路边的车左右转向灯都在闪烁的情况吧* |
-| 发动机预热 | ![pic_dph_7000] | 黄色 | 车辆柴油机发动机预热时点亮 <br> ***存疑，什么情况下点亮*** |
-| 缓速器 | ![pic_ret_4094] | 绿色/白色 | 车辆缓速器工作时点亮 <br> ***存疑，什么情况下点亮*** |
-| 制动系统故障 | ![pic_bf_4094] | 红色 | 车辆制动系统发生故障是点亮 |
-| 燃料量 | ![pic_fuel_4094] | 黄色 | 燃料液位低（通常少于12.5%）或者燃料系统故障时点亮 |
-| 蓄电池充电 | ![pic_bcc_7000] | 红色 | 车辆蓄电池充电或者电压异常时点亮 |
-| 机油压力 | ![pic_eo_7000] | 红色 | 车辆发动机机油压力低时点亮 |
-| 发动机冷却液温度 | ![pic_ect_7000] | 红色 | 车辆发动机冷却液温度高时点亮 |
-| 安全带警报 | ![pic_sb_7000] | 红色 | 未寄安全带时点亮 <br> *都听过驾校考试科目三上车没寄安全带开车直接挂科的传说吧* |
-| 驾驶室锁止警报 | ![pic_cl_7000] | 红色 | 车辆驾驶室未锁止时点亮 |
-| 防抱死系统故障 | ![pic_abs_4094] | 黄色 | 车辆制动防抱死系统故障时点亮 <br> ***存疑，什么情况下点亮*** |
-| 驻车制动 | ![pic_pb_4094] | 红色 | 车辆驻车制动（拉手刹）时点亮 |
-| 发动机故障 | ![pic_eng_4094] | 黄色 | 车辆发动机故障时点亮 |
-| 轮胎故障 | ![pic_tf_7000] | 黄色 | 车辆轮胎胎压高/低，胎温高或者TPMS系统故障时点亮 |
+| 名称 | 符号 | 颜色 | 显示效果 | 备注 |
+| ---- | --- | ---- | ---- | ---- |
+| 远光灯 | ![pic_hb_7000] | 蓝色 | ![pic_hb_7000b] | 车辆前照远光灯工作时点亮 |
+| 近光灯 | ![pic_lb_7000] | 绿色 | ![pic_lb_7000g] | 车辆前照近光灯工作时点亮 |
+| 位置灯 | ![pic_pl_7000] | 绿色 | ![pic_pl_7000g] | 车辆位置灯工作时点亮 <br> *有时也称之为小灯* |
+| 前雾灯 | ![pic_ffl_7000] | 绿色 |  | 车辆前雾灯工作时点亮 |
+| 后雾灯 | ![pic_rfl_7000] | 黄色 |  | 车辆后雾灯工作时点亮 |
+| 转向灯 | ![pic_tl_7000] | 绿色 |  | 车辆左或右转向灯工作时同步闪烁 |
+| 危险警告灯 | ![pic_hw_7000] | 红色 |  | 车辆仪表台上的危险警告开关按下，左右转向灯会同时闪烁 <br> *应该都见过停在路边的车左右转向灯都在闪烁的情况吧* |
+| 发动机预热 | ![pic_dph_7000] | 黄色 | ![pic_dph_7000a] | 车辆柴油机发动机预热时点亮 <br> ***存疑，什么情况下点亮*** |
+| 缓速器 | ![pic_ret_4094] | 绿色/白色 | ![pic_ret_4094g] | 车辆缓速器工作时点亮 <br> ***存疑，什么情况下点亮*** |
+| 制动系统故障 | ![pic_bf_4094] | 红色 | ![pic_bf_4094r] | 车辆制动系统发生故障是点亮 |
+| 燃料量 | ![pic_fuel_4094] | 黄色 | ![pic_fuel_4094a] | 燃料液位低（通常少于12.5%）或者燃料系统故障时点亮 |
+| 蓄电池充电 | ![pic_bcc_7000] | 红色 | ![pic_bcc_7000r] | 车辆蓄电池充电或者电压异常时点亮 |
+| 机油压力 | ![pic_eo_7000] | 红色 | ![pic_eo_7000r] | 车辆发动机机油压力低时点亮 |
+| 发动机冷却液温度 | ![pic_ect_7000] | 红色 | ![pic_ect_7000r] | 车辆发动机冷却液温度高时点亮 |
+| 安全带警报 | ![pic_sb_7000] | 红色 |  | 未寄安全带时点亮 <br> *都听过驾校考试科目三上车没寄安全带开车直接挂科的传说吧* |
+| 驾驶室锁止警报 | ![pic_cl_7000] | 红色 | ![pic_cl_7000r] | 车辆驾驶室未锁止时点亮 |
+| 防抱死系统故障 | ![pic_abs_4094] | 黄色 | ![pic_abs_4094a] | 车辆制动防抱死系统故障时点亮 <br> ***存疑，什么情况下点亮*** |
+| 驻车制动 | ![pic_pb_4094] | 红色 |  | 车辆驻车制动（拉手刹）时点亮 |
+| 发动机故障 | ![pic_eng_4094] | 黄色 | ![pic_eng_4094a] | 车辆发动机故障时点亮 |
+| 轮胎故障 | ![pic_tf_7000] | 黄色 | ![pic_tf_7000a] | 车辆轮胎胎压高/低，胎温高或者TPMS系统故障时点亮 |
 
 > 表格符号的形状来源于GB 4094-2016
+> 细心的朋友可以看出来显示效果中的某些符号和左边的不完全一样，这是因为标准并不是严格规定所有线条必须一模一样，可以根据实际情况修改。
 
 ## 执行标准
 
-上表中提到的符号，国内外标准对于符号的颜色，形状以及如何使用等有详细的定义，国内常用的有GB 4094，国外常用的有ISO 2575和ISO 7000。而且这些标准经常会更新，一般我们使用最新的即可。
+上表中提到的符号，国内外标准对于符号的颜色，形状以及如何使用等有详细的定义，国内常用的有GB 4094，国外常用的有ISO 2575和ISO 7000。而且这些标准经常会更新，所以设计的时候应该注意引用的是哪个版本。
 
-另外，有一点需要特别注意，某些符号的形状在不同的标准中不太一样，如下表：
+另外，有一点需要特别注意，某些符号的形状在不同的标准中不太一样，下面列举3个作为参考：
 
 | 标志 | GB 4094 | ISO 2575 | ISO 7000 | 备注 |
 | ---- | ------ | -------- | -------- | ----- |
@@ -86,31 +89,44 @@
 
 [pic_ah_4094]: ./attachments/GB4094_图3.A.png "Automatic Headlamp"
 [pic_ret_4094]: ./attachments/GB4094_图19.png "Retarder"
+[pic_ret_4094g]: ./attachments/GB4094_图19_g.png "Retarder"
 [pic_bf_4094]: ./attachments/GB4094_图20.png "Brake Failure"
+[pic_bf_4094r]: ./attachments/GB4094_图20_r.png "Brake Failure"
 [pic_fuel_4094]: ./attachments/GB4094_图21.png "Fuel"
+[pic_fuel_4094a]: ./attachments/GB4094_图21_a.png "Fuel"
 [pic_abs_4094]: ./attachments/GB4094_图37.png "Anti-lock Brake System"
+[pic_abs_4094a]: ./attachments/GB4094_图37_a.png "Anti-lock Brake System"
 [pic_pb_4094]: ./attachments/GB4094_图38.png "Parking Brake"
 [pic_eng_4094]: ./attachments/GB4094_图43.png "Engine"
+[pic_eng_4094a]: ./attachments/GB4094_图43_a.png "Engine"
 
 [pic_ah_2575]: ./attachments/ISO2575_A.36.png "Automatic Headlamp"
 [pic_bf_2575]: ./attachments/ISO2575_B.01.png "Brake Failure"
 [pic_eng_2575]: ./attachments/ISO2575_F.01.png "Engine"
 
 [pic_hb_7000]: ./attachments/ISO7000_0082_Highbeam.png "High Beam"
+[pic_hb_7000b]: ./attachments/ISO7000_0082_Highbeam_b.png "High Beam"
 [pic_lb_7000]: ./attachments/ISO7000_0083_Lowbeam.png "Low Beam"
+[pic_lb_7000g]: ./attachments/ISO7000_0083_Lowbeam_g.png "Low Beam"
 [pic_tl_7000]: ./attachments/ISO7000_0084_Turnsignals.png "Turning Lights"
 [pic_hw_7000]: ./attachments/ISO7000_0085_Hazardwarning.png "Hazard Warning"
 [pic_bf_7000]: ./attachments/ISO7000_0239_Brakefailure.png "Brake Failure"
-
 [pic_ect_7000]: ./attachments/ISO7000_0246_Enginecoolanttemperature.png "Engine Coolant Temperature"
+[pic_ect_7000r]: ./attachments/ISO7000_0246_Enginecoolanttemperature_r.png "Engine Coolant Temperature"
 [pic_bcc_7000]: ./attachments/ISO7000_0247_Batterychargingcondition.png "Battery Charging Condition"
+[pic_bcc_7000r]: ./attachments/ISO7000_0247_Batterychargingcondition_r.png "Battery Charging Condition"
 [pic_eo_7000]: ./attachments/ISO7000_0248_Engineoil.png "Engine Oil"
+[pic_eo_7000r]: ./attachments/ISO7000_0248_Engineoil_r.png "Engine Oil"
 [pic_sb_7000]: ./attachments/ISO7000_0249_Seatbelt.png "Seatbelt"
 [pic_pl_7000]: ./attachments/ISO7000_0456_Positionlights.png "Position Lights"
+[pic_pl_7000g]: ./attachments/ISO7000_0456_Positionlights_g.png "Position Lights"
 [pic_dph_7000]: ./attachments/ISO7000_0457_Dieselpreheat.png "Diesel Preheat"
+[pic_dph_7000a]: ./attachments/ISO7000_0457_Dieselpreheat_a.png "Diesel Preheat"
 [pic_ffl_7000]: ./attachments/ISO7000_0633_Frontfoglight.png "Front Fog Light"
 [pic_rfl_7000]: ./attachments/ISO7000_0634_Rearfoglight.png "Rear Fog Light"
 [pic_eng_7000]: ./attachments/ISO7000_0640_Engine.png "Engine"
 [pic_tf_7000]: ./attachments/ISO7000_1434B_Tyrefailure.png "Tyre Failure"
+[pic_tf_7000a]: ./attachments/ISO7000_1434B_Tyrefailure_a.png "Tyre Failure"
 [pic_cl_7000]: ./attachments/ISO7000_1560_Cablock.png "Cab Lock"
+[pic_cl_7000r]: ./attachments/ISO7000_1560_Cablock_r.png "Cab Lock"
 [pic_acc_7000]: ./attachments/ISO7000_2580_Adaptivecruisecontrol.png "Adaptive Cruise Control"
