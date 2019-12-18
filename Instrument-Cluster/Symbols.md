@@ -90,7 +90,7 @@
 
 更多文章请关注微信公众号：
 
-![养正小筑](/Resource-Library/Personal/qrcode_for_gh_dcb34a69c858_258.jpg)
+![养正小筑](/Resource-Library/Jacob-Leung/WeChat/qrcode_for_gh_dcb34a69c858_258.jpg)
 
 
 ## 参考文献
@@ -101,7 +101,7 @@
 4. [pixabay](https://pixabay.com/)
 
 
-[GitHub]:https://github.com/liangwq0715/Automotive-Electronics/blob/master/Instrument%20Cluster/Symbols.md
+[GitHub]:https://github.com/JacobLeung0313/Automotive-Electronics/blob/master/Instrument-Cluster/Symbols.md
  
 [pic_ah_4094]: ./attachments/GB4094_图3.A.png "Automatic Headlamp"
 [pic_ret_4094]: ./attachments/GB4094_图19.png "Retarder"
