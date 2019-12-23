@@ -90,7 +90,7 @@
 
 更多文章请关注微信公众号：
 
-![养正小筑](/Resource-Library/Jacob-Leung/WeChat/qrcode_for_gh_dcb34a69c858_258.jpg)
+![养正小筑](./attachments/qrcode_for_gh_dcb34a69c858_258.jpg)
 
 
 ## 参考文献
