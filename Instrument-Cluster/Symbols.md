@@ -2,8 +2,7 @@
 
 ## 写在前面
 
-依稀记得是2年前，突然收到一条微信，是时常联系的猎头发来的求救信息。她说自己在开车，但是仪表盘上一个灯亮了（见下图），不知道是什么情况，在线等。
-
+依稀记得是2年前，突然收到一条微信，是时常联系的猎头发来的求救信息。她说自己在开车，但是仪表盘上一个灯亮了（见下图），不知道是什么情况，在线等。  
 ![TPMS](./attachments/TPMS.png)
 
 作为一个在汽车电子行业的老司机来说（从业百年还差90年），这个图标是再熟悉不过了。它通常表示轮胎相关的问题，比如胎压过低（漏气）等等。
@@ -23,15 +22,15 @@
 在仪表中，“符号”有很多种表现形式，比如说：
 
 * 表牌上印刷的符号
-  *参考下图中绿色圆圈中的3个符号*
+  *参考下图中绿色圆圈中的3个符号*  
   ![表牌上印刷的符号](./attachments/pixabay_bmw-1399427_960_720.jpg)
  
 * LED透过表牌点亮的报警灯
-  *参考下图中红色圆圈中的符号*
+  *参考下图中红色圆圈中的符号*  
   ![LED透过表牌点亮的报警灯](./attachments/pixabay_car-1464859_960_720.jpg)
 
 * LCD中显示的报警符号
-  *参考下图中红色圆圈中的2个符号*
+  *参考下图中红色圆圈中的2个符号*  
   ![LCD中显示的报警符号](./attachments/pixabay_speedometer-2389746_960_720.jpg)
 
 >PS:  
@@ -86,22 +85,29 @@
 
 ## 写在后面
 
->本文中如有错误，会在[GitHub][]中及时更正，当然非常欢迎大家反馈意见。
+本文同步发布于微信公众号：**思齐奶爸**，阅读文章请回复关键字：**标志**。  
+![思齐奶爸](./attachments/qrcode_for_gh_dcb34a69c858_258.jpg)
 
-更多文章请关注微信公众号：
+由于此公众号没有评论功能，因此想对此文章发表评论，请移步Github、简书和知乎。
+* Github：[JacobLeung0313][]，Repositories：Automotive-Electronics。
+* 简书：[JacobLeung][]，专题：汽车之组合仪表。
+* 知乎：[不是小强][]，专栏：汽车ECU应用。
 
-![养正小筑](./attachments/qrcode_for_gh_dcb34a69c858_258.jpg)
-
+>本文中如有错误，会在Github、简书和知乎中及时更正，当然非常欢迎大家反馈意见。
 
 ## 参考文献
+
 1. GB 4094-2016 汽车操纵件、指示器及信号装置的标志  
 2. ISO 2575-2010 Road vehicles — Symbols for controls, indicators and tell-tales  
 3. ISO 7000-2004 Graphical symbols for use on equipment — Index and synopsis 
    <br>[See more symbols on the webpage](https://www.iso.org/obp/ui/#iso:pub:PUB400001:en)
 4. [pixabay](https://pixabay.com/)
 
+[JacobLeung0313]:https://github.com/JacobLeung0313/Automotive-Electronics/blob/master/Instrument-Cluster/Symbols.md
 
-[GitHub]:https://github.com/JacobLeung0313/Automotive-Electronics/blob/master/Instrument-Cluster/Symbols.md
+[JacobLeung]:https://www.jianshu.com/p/ce19a84b7bf2
+
+[不是小强]:https://zhuanlan.zhihu.com/p/98042975
  
 [pic_ah_4094]: ./attachments/GB4094_图3.A.png "Automatic Headlamp"
 [pic_ret_4094]: ./attachments/GB4094_图19.png "Retarder"

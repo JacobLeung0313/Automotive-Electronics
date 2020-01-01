@@ -1,7 +1,7 @@
 
 本系列用于介绍组合仪表相关的知识，及其他ECU在组合仪表上的实现方式，一共分为以下几个部分：
 
-* [组合仪表 - 标志（Symbols）的应用](https://github.com/JacobLeung0313/Automotive-Electronics/blob/master/Instrument-Cluster/Symbols.md)
+* [组合仪表 - 标志（Symbols）的应用][Symbols]
 * 组合仪表 - LCD中标志的显示方案
   * 实时性
   * 资源控制
@@ -18,7 +18,7 @@
   * 特殊状态的灯
     * IGN OFF需要工作的灯
     * 和车速相关的灯
-* 组合仪表 - 车速表（Speedometer）的应用
+* [组合仪表 - 车速表（Speedometer）的应用][Speedometer]
 * 组合仪表 - 发动机转速表的应用
 * 组合仪表 - 发动机水温表的应用
 * 组合仪表 - 发动机油压表的应用
@@ -30,3 +30,9 @@
 * 组合仪表 - 自适应巡航系统的应用
 * 组合仪表 - 自动紧急制动系统的应用
 * 组合仪表 - 安全带报警
+
+
+
+[Symbols]:https://github.com/JacobLeung0313/Automotive-Electronics/blob/master/Instrument-Cluster/Symbols.md
+
+[Speedometer]:https://github.com/JacobLeung0313/Automotive-Electronics/blob/master/Instrument-Cluster/Speedometer.md

@@ -33,7 +33,7 @@
 
 传统的汽车仪表，是一个个独立的模拟表头，用于显示必要的信息（例如车速，转速，水温等等）。之后发展成组合仪表，把所有的表头集成到一起。随着科技的发展，LCD开始应用于仪表，丰富了仪表显示的车辆信息。
 
-起初段码屏、点阵屏以及单色TFT屏，可以设计数字方式显示车速。现如今，仪表中的采用彩色TFT，屏幕尺寸越来越大，色彩也越来越丰富，在LCD上显示设计的模拟表头也很有科技感。
+从最开始的段码屏，发展成点阵屏以及单色TFT屏，这时可以设计数字方式显示车速。现如今，仪表中采用彩色TFT，屏幕尺寸越来越大，色彩也越来越丰富，在LCD上显示设计的模拟表头也很有科技感。
 
 * 指针表：参考下图中左边的指针  
   模拟表头，通过控制指针偏转的角度，来达到显示车速的目的。设计上应该保证指针平滑的运动，不能出现抖动或大幅跳动的情况。
@@ -52,9 +52,8 @@
 
 由于车辆的速度是一个动态变化的值（巡航模式除外），踩油门车速加快，松开油门车速慢慢降低。因此在设计的时候需要考虑设置一个合适的范围，用来避免车速在一个值左右变化，导致时而报警时而不报警。
 
-由于标准中没有专门的超速报警指示符号，因此不同的车报警符号不太一样，下面列举2个比较常见的:
-
-![Vehicle Over Speed](./attachments/VehicleOverSpeed.png)
+由于标准中没有专门的超速报警指示符号，因此不同的车报警符号不太一样，下面列举2个比较常见的:  
+![车辆超速](./attachments/VehicleOverSpeed.png)
 
 ## 车速从哪里来
 
@@ -74,24 +73,31 @@
 
 最具代表性的是有些美式汽车，他们车速表的设计，会同时出现英制（mph）和公制（km/h）。当在美国境内正常驾驶时使用英制单位，如果跨境开往墨西哥或者加拿大，则采用公制单位。参考下图的设计：
 
->PS: 1 英里（mile） = 1.609344 公里（km）。
-<br>美式英制单位，与传统的英制单位有所区别。
+>PS: 1 英里（mile） = 1.609344 公里（km）。  
+>美式英制单位，与传统的英制单位有所区别。
 
 ![该图片由Pexels在Pixabay上发布](./attachments/pixabay_audi-2877589_640.jpg)
 
 ## 写在后面
 
->本文中如有错误，会在[GitHub][]中及时更正，当然非常欢迎大家反馈意见。
+本文同步发布于微信公众号：**思齐奶爸**，阅读文章请回复关键字：**车速表**。  
+![思齐奶爸](./attachments/qrcode_for_gh_dcb34a69c858_258.jpg)
 
-更多文章请关注微信公众号：
+由于此公众号没有评论功能，因此想对此文章发表评论，请移步Github、简书和知乎。
+* Github：[JacobLeung0313][]，Repositories：Automotive-Electronics。
+* 简书：[JacobLeung][]，专题：汽车之组合仪表。
+* 知乎：[不是小强][]，专栏：汽车ECU应用。
 
-![养正小筑](./attachments/qrcode_for_gh_dcb34a69c858_258.jpg)
-
+>本文中如有错误，会在Github、简书和知乎中及时更正，当然非常欢迎大家反馈意见。
 
 ## 参考文献
+
 1. GB 15082-2008 汽车用车速表
 2. J1939DA 2017
 3. [pixabay](https://pixabay.com/)
 
+[JacobLeung0313]:https://github.com/JacobLeung0313/Automotive-Electronics/blob/master/Instrument-Cluster/Speedometer.md
 
-[GitHub]:https://github.com/JacobLeung0313/Automotive-Electronics/blob/master/Instrument-Cluster/Speedometer.md
+[JacobLeung]:https://www.jianshu.com/p/ed7b5fc73bfd
+
+[不是小强]:https://zhuanlan.zhihu.com/p/100575233
